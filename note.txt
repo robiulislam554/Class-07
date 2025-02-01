@@ -1,0 +1,22 @@
+Ordered List
+
+1.Rahim
+2.karim
+3.Abdul
+4.Joyonto
+
+type = 1, a, i
+
+
+
+Unordered List
+
+.Coding
+.Rading
+.Singing
+
+type = disc, circle, square, none
+
+
+ul => Unordered List => li
+ol => Ordered List => li
